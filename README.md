@@ -1,4 +1,9 @@
-# Project Management Analytics (Apex Legend Mobile)
+<h2 align="center"> Project Management Analytics </h2>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d916fdbe-821d-409c-843b-a3ca124f3e6e" width="200">
+</p>
+
 
 Examining and comprehending a pre-existing project within the primary knowledge areas of project management outlined by the Project Management Institute's Body of Knowledge (PMBOK). Our emphasis lies in the application of descriptive and predictive analytics methods, along with reporting tools, for effective project management.
 
