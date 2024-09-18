@@ -4,20 +4,28 @@ Examining and comprehending a pre-existing project within the primary knowledge 
 
 Generated essential documentation throughout the entire life cycle of project management analytics.
 
-### Initiation (Project Goal)
+## Initiation (Project Goal)
 
 - Not everyone can afford a computer or a gaming console to play games. But players must feel the urge to play those games. World's smartphone user base is expected to reach 6.648 billion by end of this year(2022).
 - Electronic Arts and Respawn Entertainment have announced plans to release a mobile version of their masterpiece Apex Legends. The approach entails redesigning a PC-compatible game with simplified controls and careful tablet and mobile optimizations.
 - As a result, the hero shooter game on mobile platform will have a distinct player base. In-game microtransactions can improve gameplay and provide cosmetic upgrades. As a result, the business can find profit.
 
-1. Business Case
+## 1. Business Case
 A business case highlights the justification for initiating the project. The business case combines the requirements, estimated costs, and benefit of the current situation and future vision so that executive management can decide whether to proceed with the project.
 
-2. Project Charter
+![Project Case](https://github.com/user-attachments/assets/c864fb23-0857-48b7-860c-5a47154ba77d)
+
+## 2. Project Charter
 A project charter is a crucial document that includes information about the project's constraints, objectives, High level requirements and risk, duration, milestones for project, budget and project manager’s authority levels, etc.
 
-3. Requirement Gathering
+![Project Charter](https://github.com/user-attachments/assets/2b14b923-1bd2-409e-8ff5-d162f113ddac)
+
+### 3. Requirement Gathering
 A Requirement Gathering Document is a formal record that captures the specific needs, expectations, and constraints for a project from various stakeholders. This document serves as the foundation for defining the scope of the project and ensuring that the final deliverables meet the intended goals.
+
+<img src = "https://github.com/user-attachments/assets/fe0390db-01d7-4f22-a051-c690e9b1a3dd" width=500>
+
+
 
 5. Work Breakdown Structure
 Break down the work into smaller tasks and define them in the Work Breakdown Structure (WBS) to manage the size and complexity of a large project. The WBS provides a hierarchical decomposition of the total scope of work, allowing the project team to organize and complete the project efficiently.
