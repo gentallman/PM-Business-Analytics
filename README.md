@@ -46,28 +46,32 @@ A RACI Matrix is  used to define and clarify roles and responsibilities for spec
   - I – Informed: People who need to be kept updated on the progress of the task but don’t need to be consulted or make decisions.
 
 <p align="center">
-  <img src = "https://github.com/user-attachments/assets/5fbd173b-bec8-4917-bf5d-7e62479b1c77" width=900>
+  <img src = "https://github.com/user-attachments/assets/5fbd173b-bec8-4917-bf5d-7e62479b1c77">
 </p>
 
 ### 6. Cost-Budget
 The project manager coordinates the preparation of a project budget by providing cost estimates for the labor, equipment, and materials costs. The goal of budget and cost document is to keep expenses within the approved budget by estimating, budgeting, and controlling costs.
 
 <p align="center">
-  <img src = "https://github.com/user-attachments/assets/8e996b98-9ace-4543-b766-3db8a1669cf4" width=350>
+  <img src = "https://github.com/user-attachments/assets/a04d07cc-d033-4334-8c85-fc20dd69b074" width=800>
 </p>
 
 ### 7. Resource Work Activities
 A Resource Work Activities Document is used in project management to outline the tasks or activities that are assigned to specific resources (people, equipment, or materials) throughout the project. It helps in efficiently managing resources by detailing what needs to be done, by whom, and when, ensuring that the project is executed smoothly and on time.
 
 <p align="center">
-  <img src = "https://github.com/user-attachments/assets/8e996b98-9ace-4543-b766-3db8a1669cf4" width=350>
+  <img src = "https://github.com/user-attachments/assets/9696db76-2b29-4865-be0b-7200717cce3c">
 </p>
 
 ### 8. Change Log/Request
 A Change Log/Request is a document in project management used to track, manage, and document any changes to the project’s scope, schedule, budget, or deliverables. It ensures that changes are properly reviewed, approved, or rejected, and that the impact on the project is thoroughly assessed before implementation.
 
 <p align="center">
-  <img src = "https://github.com/user-attachments/assets/8e996b98-9ace-4543-b766-3db8a1669cf4" width=350>
+  <img src = "https://github.com/user-attachments/assets/84917d86-b7c5-4afd-85eb-1593afb2c915" width=700>
+</p>
+
+<p align="center">
+  <img src = "https://github.com/user-attachments/assets/5a55ed63-e132-48ff-835b-a9041435021f" width=950>
 </p>
 
 ### 9. Stakeholder Register
