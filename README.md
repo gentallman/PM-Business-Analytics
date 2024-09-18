@@ -78,21 +78,21 @@ A Change Log/Request is a document in project management used to track, manage, 
 A stakeholder register is a document that defines who is influenced by a project (individual or group), as well as their effect and impact on the project. It serves different roles for project (sponsor, PM, Project Leads, Developer team and General Public), contacts of roles, category(internal/external), Interest, influence, expectations and common software requirements for showcasing their work.
 
 <p align="center">
-  <img src = "https://github.com/user-attachments/assets/8e996b98-9ace-4543-b766-3db8a1669cf4" width=350>
+  <img src = "https://github.com/user-attachments/assets/d5a09768-a3a8-4049-bf48-7caf93f996eb">
 </p>
 
 ### 10. Communication Plan
 A Communication Plan is a key project management tool that outlines how information will be shared among stakeholders, team members, and other parties throughout the life of a project. It ensures that the right information reaches the right people at the right time, fostering transparency and efficient collaboration.
 
 <p align="center">
-  <img src = "https://github.com/user-attachments/assets/8e996b98-9ace-4543-b766-3db8a1669cf4" width=350>
+  <img src = "https://github.com/user-attachments/assets/4d031771-4e7e-4e8f-be55-6e70d552be0b">
 </p>
 
 ### 11. Lesson Learned Register
 A Lesson Learned Register is a document used in project management to capture and document the insights, experiences, successes, and challenges encountered throughout the life of a project. It serves as a valuable tool for continuous improvement by helping future projects avoid repeating mistakes and replicate successful practices.
 
 <p align="center">
-  <img src = "https://github.com/user-attachments/assets/8e996b98-9ace-4543-b766-3db8a1669cf4" width=350>
+  <img src = "https://github.com/user-attachments/assets/764db69d-a3cf-4885-85d0-ecf43074d992">
 </p>
 
 ## Contact
