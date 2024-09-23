@@ -1,8 +1,15 @@
 <h2 align="center"> Project Management Analytics </h2>
+<br>
+<div align="center">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 1000px; margin: 0 auto;">
+  <img src="https://github.com/user-attachments/assets/3c8a1e29-d632-4bed-9e90-4dd58cf3838a" width="160">
+  <img src="https://github.com/user-attachments/assets/5e63bd8f-f76e-4db9-9862-7b0610e0a6ff" width="200">
+	&nbsp	&nbsp	&nbsp	&nbsp	&nbsp	&nbsp	&nbsp	&nbsp
+  <img src="https://github.com/user-attachments/assets/68d6351b-287f-4823-a1e9-3b3200c72861" width="160">
+</div>
+</div>
+ <br>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d916fdbe-821d-409c-843b-a3ca124f3e6e" width="200">
-</p>
 
 
 Examining and comprehending a pre-existing project within the primary knowledge areas of project management outlined by the Project Management Institute's Body of Knowledge (PMBOK). Our emphasis lies in the application of descriptive and predictive analytics methods, along with reporting tools, for effective project management.
